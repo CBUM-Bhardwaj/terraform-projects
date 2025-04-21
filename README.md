@@ -5,7 +5,7 @@ This repository contains a series of hands-on projects where I’m using **Terra
 
 ---
 
-## 🚀 Projects Index -----------------------------------------------------------------------------------
+## 🚀 Projects Index
 
 |  Day's  |          Project Description                    |                   Link                    |
 |---------|-------------------------------------------------|-------------------------------------------|
@@ -13,7 +13,7 @@ This repository contains a series of hands-on projects where I’m using **Terra
 |  Day 4  | Coming soon...                                  |                                           |
 |  .....  | More projects coming as I learn more!           |                                           |
 
-## 🧠 Skills Covered -----------------------------------------------------------------------------------
+## 🧠 Skills Covered
 
 - Terraform basics and HCL syntax
 - AWS Infrastructure provisioning
