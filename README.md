@@ -9,7 +9,7 @@ This repository contains a series of hands-on projects where I’m using **Terra
 
 |  Day's  |          Project Description                    |                   Link                    |
 |---------|-------------------------------------------------|-------------------------------------------|
-|  Day 3  | EC2 + Security Group + VPC + Key Pair           | [day3](./day3)        |
+|  Day 3  | EC2 + Security Group + VPC + Key Pair           | [Day 3](./day3)                           |
 |  Day 4  | Coming soon...                                  |                                           |
 |  .....  | More projects coming as I learn more!           |                                           |
 
