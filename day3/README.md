@@ -1,13 +1,24 @@
-# 🚀 Terraform Day 3: EC2 + VPC + Security Group + Key Pair
+# 🚀 Day 3: Launch EC2 with VPC, Key Pair & Security Group using Terraform
 
-This project provisions the following AWS resources using Terraform:
+This Terraform project sets up a basic AWS infrastructure with:
 
-- ✅ **EC2 Ubuntu Instance** (`t2.micro`)
-- 🔐 **SSH Key Pair** (public key uploaded)
-- 🛡️ **Security Group** (Port 22 for SSH, Port 80 for HTTP)
-- 🌐 **Default VPC**
-- 💾 **Root Block Device** (8 GB, `gp3`)
+- ✅ Ubuntu EC2 instance (`t2.micro`)
+- 🔐 SSH Key Pair for secure login
+- 🛡️ Security Group with open ports 22 (SSH) and 80 (HTTP)
+- 🌐 Default VPC
+- 💾 8GB root block volume (`gp3`)
 
 ---
 
-## 📁 File Structure
+## 📁 File
+
+- `main.tf`: Contains the full infrastructure code for EC2, VPC, Security Group, and Key Pair.
+
+---
+
+## 🛠️ How to Run
+
+```bash
+terraform init
+terraform plan
+terraform apply
