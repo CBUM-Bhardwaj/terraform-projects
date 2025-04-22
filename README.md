@@ -7,11 +7,11 @@ This repository contains a series of hands-on projects where I’m using **Terra
 
 ## 🚀 Projects Index
 
-|  Day's  |          Project Description                    |                   Link                    |
-|---------|-------------------------------------------------|-------------------------------------------|
-|  Day 3  | EC2 + Security Group + VPC + Key Pair           | [Day 3](./day3)                           |
-|  Day 4  | Coming soon...                                  |                                           |
-|  .....  | More projects coming as I learn more!           |                                           |
+|  Day's  |          Project Description                    |          Link           |
+|---------|-------------------------------------------------|-------------------------|
+|  Day 3  | EC2 + Security Group + VPC + Key Pair           | [Day 3](./day3)         |
+|  Day 4  | Variables                                       | [Day 4](./day4)         |
+|  Day 5  | Output                                          | [Day 5](./day5)         |
 
 ## 🧠 Skills Covered
 
